@@ -40,7 +40,7 @@ A real-time weather application built using HTML, CSS, JavaScript, and OpenWeath
 ## Live Demo
 
 Portfolio Website:
-https://sarath2317.github.io/MyPortifolio2/
+https://sarath2317.github.io/Portifolio-Website/
 
 ## Contact
 
